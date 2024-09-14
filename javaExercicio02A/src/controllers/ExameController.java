@@ -72,6 +72,7 @@ public class ExameController {
 			} else {
 				System.out.println("Gênero inválido. Por favor, insira 'M' ou 'F'.");
 				return; // Sai do método se a entrada não for de um único caractere
+				
 
 			}
 
